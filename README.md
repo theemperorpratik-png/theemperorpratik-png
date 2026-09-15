@@ -22,7 +22,7 @@ Full-stack developer building with the **MERN stack** and **Next.js** — curren
 
 ### 📫 Reach me
 - Email: sakarpoudel.dev@gmail.com
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/sakar-poudel-883196436/)
+- LinkedIn: [here-ig](https://www.linkedin.com/in/sakar-poudel-883196436/)
 
 ---
 
