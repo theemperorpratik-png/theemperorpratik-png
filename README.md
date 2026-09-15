@@ -21,7 +21,7 @@ Full-stack developer building with the **MERN stack** and **Next.js** — curren
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theemperorpratik-png&theme=dark&background=15181D&stroke=24282F&ring=E3B341&fire=E3B341&currStreakLabel=ECE7DA" alt="GitHub streak"/>
 
 ### 📫 Reach me
-- Email: sakarpoudel.dev
+- Email: sakarpoudel.dev@gmail.com
 - LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/sakar-poudel-883196436/)
 
 ---
