@@ -24,7 +24,7 @@ Full-stack developer building with the **MERN stack** and **Next.js** — curren
 - Portfolio: [here~](https://theemperorpratik-png.github.io/portfolio-/)
 - Email: sakarpoudel.dev@gmail.com
 - LinkedIn: [here~](https://www.linkedin.com/in/sakar-poudel-883196436/)
-
+- another repo: [This](https://github.com/emperor-sakar)
 ---
 
 <sub>⭐️ from [theemperorpratik-png](https://github.com/theemperorpratik-png)</sub>
