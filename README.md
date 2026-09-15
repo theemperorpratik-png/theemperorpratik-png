@@ -17,10 +17,6 @@ Full-stack developer building with the **MERN stack** and **Next.js** — curren
 - **[Esp32-Robot-Car](https://github.com/theemperorpratik-png/Esp32-Robot-Car)** — Firmware for an ESP32-controlled robot car
 
 ### 📊 GitHub stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theemperorpratik-png&show_icons=true&theme=dark&bg_color=15181D&title_color=E3B341&icon_color=4FD1C5&text_color=ECE7DA&border_color=24282F" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theemperorpratik-png&layout=compact&theme=dark&bg_color=15181D&title_color=E3B341&text_color=ECE7DA&border_color=24282F" alt="Top languages" height="165"/>
-</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theemperorpratik-png&theme=dark&background=15181D&stroke=24282F&ring=E3B341&fire=E3B341&currStreakLabel=ECE7DA" alt="GitHub streak"/>
 
