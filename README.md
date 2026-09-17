@@ -113,20 +113,11 @@ Firmware for a Wi-Fi controlled robot car.
 </div>
 
 <details>
-<summary><b>🏆 Trophy case</b></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=theemperorpratik-png&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
-</details>
-
-<details>
 <summary><b>🐍 Contribution snake</b></summary>
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/theemperorpratik-png/theemperorpratik-png/output/snake.svg"/>
 </div>
-<sub>This one needs a one-time setup — see <code>snake-workflow.yml</code> in your download, or ask me to walk you through it.</sub>
 </details>
 
 <br>
@@ -135,9 +126,9 @@ Firmware for a Wi-Fi controlled robot car.
 
 <div align="center">
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0714"></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0714"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FBBF24?style=for-the-badge&logo=firefox&logoColor=0A0714&labelColor=0A0714"></a>
+<a href="mailto:sakarpoudel,dev@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0714"></a>
+<a href="https://www.linkedin.com/in/sakar-poudel-883196436/"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0714"></a>
+<a href="https://theemperorpratik-png.github.io/portfolio-/"><img src="https://img.shields.io/badge/Portfolio-FBBF24?style=for-the-badge&logo=firefox&logoColor=0A0714&labelColor=0A0714"></a>
 
 <br><br>
 
